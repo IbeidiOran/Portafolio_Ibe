@@ -864,37 +864,28 @@ body {
 }
 
 .skills__porcentaje--p1 {
-  width: 60%;
+  width: 85%;
 }
 
-.skills__porcentaje--p2 {
-  width: 60%;
-}
+
 
 .skills__porcentaje--p3 {
-  width: 90%;
+  width: 65%;
 }
 
 
 .skills__porcentaje--p5 {
-  width: 90%;
+  width: 85%;
 }
 
 .skills__porcentaje--p6 {
-  width: 75%;
-}
-
-.skills__porcentaje--p7 {
-  width: 20%;
-}
-
-.skills__porcentaje--p8 {
   width: 70%;
 }
 
-.skills__porcentaje--p9 {
-  width: 60%;
+.skills__porcentaje--p7 {
+  width: 55%;
 }
+
 
 .knowledges__list {
   display: flex;
